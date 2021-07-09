@@ -1,6 +1,6 @@
 # javaMethods
 This project is a combination of class follow through of the Udemy Course: Java Programming Masterclass for Software Developers
-https://examsoft.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/10215708#overview
+https://www.udemy.com/course/java-the-complete-java-developer-course/
 and a coding challenge within this lesson. 
 
 The challenge was to create two methods one to display where a particular player would place on the score table based on several name and score input.
